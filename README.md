@@ -1,2 +1,2 @@
 # Plan--t
-All-in-one personal planning/organizational tool
+Plan It is an all-in-one personal planning/organizational tool. 
